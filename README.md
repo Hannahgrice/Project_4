@@ -55,14 +55,13 @@ Model Interpretability: The model's predictions were analyzed for fairness and a
 **Visualizations**
 Visualized Images from the dataset
 
-Tableau Dashboard: Brain Tumor Visualization
 **Tools and Libraries**
 Python
 Matplotlib
 TensorFlow
 NumPy
 Google Colab
-Tableau
+Tableau - https://public.tableau.com/app/profile/brake.chias/viz/BrainTumorVisualization/Story1
 
 **How to Use**
 Download the Dataset: Download the MRI brain scans dataset from Kaggle and place the images in the appropriate directories (Normal and Tumor).
