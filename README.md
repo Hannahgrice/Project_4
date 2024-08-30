@@ -47,24 +47,27 @@ Optimizer: Adam optimizer was used with a learning rate of 0.001 for the initial
 Performance Visualization
 Training and validation accuracy and loss were plotted to visualize the model’s performance over the epochs.
 A histogram of prediction probabilities was generated to analyze the model's output distribution.
+
 **Ethical Considerations**
 Data Privacy: Personal identifiers were removed from the dataset to protect patient privacy.
-Bias Mitigation: Efforts were made to ensure that the model fairly represents both normal and tumor classes, with balanced training data.
+
+Check for Bias: Efforts were made to ensure that the model fairly represents both normal and tumor classes, with balanced training data.
 Model Interpretability: The model's predictions were analyzed for fairness and accuracy, considering the serious implications of false negatives in medical diagnoses.
 
 **Visualizations**
 Visualized Images from the dataset
 
 **Tools and Libraries**
-**Python
 
-**Matplotlib
+Python
 
-**TensorFlow
+Matplotlib
 
-**NumPy
+TensorFlow
 
-**Google Colab
+NumPy
+
+Google Colab
 
 **Tableau** - https://public.tableau.com/app/profile/brake.chias/viz/BrainTumorVisualization/Story1
 
