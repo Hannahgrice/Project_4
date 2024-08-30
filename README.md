@@ -54,6 +54,9 @@ Model Interpretability: The model's predictions were analyzed for fairness and a
 
 **Visualizations**
 Visualized Images from the dataset
+![surgery_california](https://github.com/Hannahgrice/Project_4/blob/main/surgery_california.png)
+
+
 Tableau Dashboard: Brain Tumor Visualization
 **Tools and Libraries**
 Python
