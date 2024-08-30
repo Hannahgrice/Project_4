@@ -57,11 +57,11 @@ Visualized Images from the dataset
 
 **Tools and Libraries**
 **Python
-Matplotlib
-TensorFlow
-NumPy
-Google Colab
-Tableau** - https://public.tableau.com/app/profile/brake.chias/viz/BrainTumorVisualization/Story1
+**Matplotlib
+**TensorFlow
+*NumPy
+*Google Colab
+*Tableau** - https://public.tableau.com/app/profile/brake.chias/viz/BrainTumorVisualization/Story1
 
 **How to Use**
 Download the Dataset: Download the MRI brain scans dataset from Kaggle and place the images in the appropriate directories (Normal and Tumor).
